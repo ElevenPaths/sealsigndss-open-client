@@ -1,0 +1,6 @@
+############
+# VERSIONS #
+############
+
+SealSignDSSClient4 => Compatible with SealSign 4.1 and later
+SealSignDSSClient3 => Compatible with SealSign 3.2 and before
